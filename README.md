@@ -15,10 +15,14 @@ algorithm to develop the optimal set of instructions required to solve the given
 **Team Members**
 |   Enrollment No.  |   Name   | 
 |   --------------  |   ----   | 
-|    IIT2019204  |   Mitta Lekhana Reddy |
-|    IIT2019208  |   Dhanush Vasa | 
-|    IIT2019236  |   N. Sravana Samyukta|
-|    IIB2019030  |   Kandagatla Meghana Santhoshi |
+| IIB2019030 |  Kandagatla Meghana Santhoshi |
+| IIT2019184 |  Pratyush Pareek |
+| IIT2019185 |  R Shwethaa |
+| IIT2019204 |  Mitta Lekhana Reddy  |
+| IIT2019205 | Sanskar Polaki Patro |
+| IIT2019208 |  Dhanush Vasa |
+| IIT2019219 |  Gitika Yadav |
+
 
 **Instructor**
 ```
