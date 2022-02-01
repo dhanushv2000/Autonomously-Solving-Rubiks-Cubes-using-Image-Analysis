@@ -1,16 +1,6 @@
 # Autonomously-Solving-Rubiks-Cubes-using-Image-Analysis
 
-Rubik’s cubes have gained popularity throughout the world and most people have
-tried their hands at this seemingly simple, yet insanely difficult little puzzle. The
-Rubik’s Cube is a 3-D mechanical puzzle which was invented in 1974 by Erno Rubik
-as a toy. A classic Rubik’s Cube has 6 faces, each covered by nine stickers of one of
-six colors, the standard set being: green, red, blue, orange, white, and yellow. The
-cube has 12 degrees of freedom as each of the 6 faces can be rotated in 2 directions
-each. After the cube is jumbled by a series of rotations, the cuber is expected to
-solve it by bringing it back into its initial stage through a series of notations. In this
-project, we attempt to make an autonomous Rubik’s cube solver that uses image
-processing to detect the 3x3x3 cube, recognizes its present state, and uses Kociemba
-algorithm to develop the optimal set of instructions required to solve the given cube.
+Rubik's cubes have gained popularity around the world and most people have tried their hand at this seemingly simple, yet incredibly difficult puzzle. Erno Rubik created the Rubik's Cube in 1974 as a toy. There are six faces, each covered with nine stickers in one of six colors, the standard set being: green, red, blue, orange, white, and yellow. Cubes have 12 degrees of freedom since each of the 6 faces can be rotated in two directions each. After the cube is rotated, the cuber is expected to solve it by bringing it back into its initial state through a series of notations. Here, we attempt to make an autonomous Rubik's cube solver that uses image processing to detect the 3x3x3 cube, recognizes its current state, and uses the Kociemba algorithm to determine the optimal set of instructions required to solve the given cube.
 
 **Team Members**
 |   Enrollment No.  |   Name   | 
